@@ -1,0 +1,8 @@
+
+{
+  "name": "Riser.TTS",
+  "description": "High-performance anime-style text-to-speech AI. Created by Riser Corporation Company.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
